@@ -2,7 +2,7 @@ A Novel C Programming Error Handling Paradigm (1.1)
 
 Authored on December 31, 2019
 
-Kaywan Joseph Mansubi
+krunch3r (https://github.com/krunch3r76)
 
 I stand and deliver where healthcare and technology intersect.
 
